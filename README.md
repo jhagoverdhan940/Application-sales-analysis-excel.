@@ -16,7 +16,8 @@ The objective of this project is to analyze the sales performance of an applianc
 
 -Dashboard Interaction <a href= "https://github.com/jhagoverdhan940/Application-sales-analysis-excel./blob/main/dashboard.png">View Dashboard<\a>
 
-##Process
+## Process
+
 1.Data Collection
 -Gathered appliances shop sales dataset (product, region, sales, profit, date, targets).
 2.Data Cleaning
